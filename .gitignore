@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Checkpoints (large)
+checkpoints/
+*.pt
+*.pth
+
+# Logs
+logs/
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HF cache
+.cache/
+
+# Keep results
+!results/
+!results/**

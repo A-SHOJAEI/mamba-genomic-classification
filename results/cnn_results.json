@@ -1,0 +1,18 @@
+{
+  "splice_sites_acceptors": {
+    "accuracy": 0.9238052299368801,
+    "f1": 0.9237649237134689,
+    "mcc": 0.8479393277235105,
+    "train_time": 16.298558712005615,
+    "n_params": 2102274,
+    "task": "splice_sites_acceptors"
+  },
+  "splice_sites_donors": {
+    "accuracy": 0.9158325750682439,
+    "f1": 0.9158296307106035,
+    "mcc": 0.831744575566811,
+    "train_time": 16.12197995185852,
+    "n_params": 2102274,
+    "task": "splice_sites_donors"
+  }
+}
